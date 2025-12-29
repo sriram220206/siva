@@ -1,5 +1,5 @@
 export const SHEET_IDS = {
-  basicInfo: "1nFYXIts878Su0KgUmQjXTDedjHilToASZ0WQs14eMSw",
+  basicInfo: "1I81pjiSrS_09gPujFkJqr8UKrNfe-aGoRhW4ZjgPLDw",
   qualifications: "1kq9TfO8WIFhwN9C66GnWrczi7qgny1VnSH21ERUO-Ck",
   teaching: "13xcDqjb3H3pi7YxL1xagcitBSKM819YVQygLxA2imao",
   courses: "1Io_jlOW2DCYUxWAx-ID9DMEKj6spVxC39qHGE9Yr0uI",
